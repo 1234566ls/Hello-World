@@ -1,2 +1,3 @@
 # Hello-World
-MyFirstRepository
+
+Hi, i am student.
